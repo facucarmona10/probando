@@ -1,4 +1,4 @@
-*Algoritmos y estructuras de Datos
++Algoritmos y estructuras de Datos
 
 +K1051
 +2023
